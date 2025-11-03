@@ -1,5 +1,4 @@
-<img width="1313" height="1396" alt="image" src="https://github.com/user-attachments/assets/79eaddd8-3f89-46b1-91dd-375e9a049105" />
-
+<img width="200" height="220" alt="image" src="https://github.com/user-attachments/assets/79eaddd8-3f89-46b1-91dd-375e9a049105" />
 1. Арина Королёва
 2. Номер телефона: +79780771796
    Почта: k0roleva.arin@yandex.ru
